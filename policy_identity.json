@@ -1,0 +1,10 @@
+{
+  "model": "participant-trained pi0.5 R07",
+  "weights_sha256": "96c0a1836a231a811122da19a355a571f7cf332f1209b4c51944e8ce9cc76a1f",
+  "original_server_sha256": "77cbb0245ed6e2b3b0aa329928fd020a41d43e1e29a4331235ee4bcb47b6bdfe",
+  "original_MyPolicy_ast_preserved": true,
+  "files_sha256": {
+    "policy_impl.py": "f0f4d319e7fe77733b017a3f915584dabf9b8c022b84241c3a432abffbb86a14",
+    "g09h_overlap.py": "df80b71062ff2c9da8fc9b9c09a8ef365e07dc9a02b07cacfed0dfe7c14bf885"
+  }
+}

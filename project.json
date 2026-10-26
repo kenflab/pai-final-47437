@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "suite": "libero_goal",
+      "task": "put_the_bowl_on_the_plate_table_1"
+    },
+    {
+      "suite": "libero_spatial",
+      "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate_light_1"
+    }
+  ],
+  "init_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "max_policy_actions": 300,
+  "max_episode_wall_seconds": 240,
+  "warmup_actions": 10,
+  "control_frequency_hz": 20,
+  "environment_seed": 42,
+  "display_rotation_degrees": 180,
+  "initial_state_source": "seeded_reset"
+}
