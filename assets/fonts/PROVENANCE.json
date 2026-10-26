@@ -1,0 +1,10 @@
+{
+  "upstream": "https://github.com/google/fonts/tree/main/ofl/notosansjp",
+  "source_file": "NotoSansJP[wght].ttf",
+  "downloaded_on": "2026-10-25",
+  "original_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "modifications": "Instantiated wght=400, subset to report characters and ASCII; renamed to PAI Report Sans.",
+  "license": "SIL Open Font License 1.1; see OFL.txt",
+  "subset_sha256": "d378140d223b1792227baaa69dd3955efe0d453c33221d10ebf4b627fd8c8756",
+  "glyph_count": 601
+}
